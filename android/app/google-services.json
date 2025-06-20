@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706236404940",
+    "project_id": "appdeficharv2",
+    "storage_bucket": "appdeficharv2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706236404940:android:da0fdab517898131f55e69",
+        "android_client_info": {
+          "package_name": "com.koya.appdeficharv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5HsWTsDMZDp1ev2WCmduF4n2tzR1rMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
